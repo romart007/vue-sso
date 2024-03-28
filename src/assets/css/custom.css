@@ -1,0 +1,16 @@
+body {
+  font-family: 'Barlow', sans-serif !important;
+  background-color: #1a1d1f !important;
+}
+
+.fw-semibold {
+  font-weight: 600;
+}
+
+.btn.btn-primary {
+  background: #4136f1;
+  background: linear-gradient(90deg, #4136f1 -0.68%, #8743ff 100.7%);
+  border: none;
+  line-height: 40px;
+  color: white;
+}
